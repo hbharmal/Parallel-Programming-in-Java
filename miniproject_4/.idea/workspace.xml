@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ce47435-46e2-461d-b987-ff59bee5a306" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e1de355b-b641-483d-bc33-aeeb3f79ecce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BlockingQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniproject_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../miniproject_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniproject_3/src/main/java/edu/coursera/parallel/MatrixMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/../miniproject_3/src/main/java/edu/coursera/parallel/MatrixMultiply.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +14,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/OneDimAveragingPhaser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="147" selection-start-line="147" selection-end-line="147" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/OneDimAveragingPhaserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="128" column="16" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -20,14 +41,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/StudentAnalytics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/OneDimAveragingPhaser.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
-    <option name="height" value="726" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -39,56 +59,51 @@
         <subPane>
           <expand>
             <path>
-              <item name="miniproject_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_2" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_2" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="miniproject_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_2" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_2" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_2" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_2" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="parallel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_2" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_2" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_2" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -103,7 +118,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552422527110" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555890966842" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -120,8 +135,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="StudentAnalyticsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="miniproject_2" />
+    <configuration name="OneDimAveragingPhaserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="miniproject_4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.coursera.parallel.*" />
@@ -129,7 +144,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
-      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.StudentAnalyticsTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.OneDimAveragingPhaserTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,7 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StudentAnalyticsTest" />
+        <item itemvalue="JUnit.OneDimAveragingPhaserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -146,32 +161,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6ce47435-46e2-461d-b987-ff59bee5a306" name="Default Changelist" comment="" />
-      <created>1551142549451</created>
+      <changelist id="e1de355b-b641-483d-bc33-aeeb3f79ecce" name="Default Changelist" comment="" />
+      <created>1555888139686</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551142549451</updated>
+      <updated>1555888139686</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentAnalyticsTest - 2019.03.12 at 15h 26m 18s.xml">
-      <configuration name="StudentAnalyticsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentAnalyticsTest - 2019.03.12 at 15h 28m 57s.xml">
-      <configuration name="StudentAnalyticsTest" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest - 2019.04.21 at 18h 57m 39s.xml">
+      <configuration name="OneDimAveragingPhaserTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="726" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16235864" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24717286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
@@ -179,25 +196,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven-2 Build" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven-2 Build" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -207,46 +217,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/OneDimAveragingPhaserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-475">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="242">
+          <caret line="128" column="16" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/checkstyle.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/OneDimAveragingPhaser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2635" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-670">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/miniproject_2.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/StudentAnalyticsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1166">
-          <caret line="48" column="71" selection-start-line="48" selection-start-column="71" selection-end-line="48" selection-end-column="71" />
-          <folding>
-            <element signature="e#2704#2705#0" expanded="true" />
-            <element signature="e#2757#2758#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/StudentAnalytics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="165" column="27" selection-start-line="165" selection-start-column="27" selection-end-line="165" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="518">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
         </state>
       </provider>
     </entry>
